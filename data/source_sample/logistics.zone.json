@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "67a3da68f64b0a4eb35f9870"
+  },
+  "name": "Zone-10",
+  "createdAt": {
+    "$date": "2025-02-05T21:38:48.317Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T21:38:48.317Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a3da68f64b0a4eb35f9876"
+  },
+  "name": "Zone-1",
+  "createdAt": {
+    "$date": "2025-02-05T21:38:48.607Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T21:38:48.607Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a3da68f64b0a4eb35f987c"
+  },
+  "name": "Zone-8",
+  "createdAt": {
+    "$date": "2025-02-05T21:38:48.641Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T21:38:48.641Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a3da68f64b0a4eb35f9890"
+  },
+  "name": "Zone-4",
+  "createdAt": {
+    "$date": "2025-02-05T21:38:48.881Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T21:38:48.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a3da68f64b0a4eb35f989b"
+  },
+  "name": "Zone-9",
+  "createdAt": {
+    "$date": "2025-02-05T21:38:48.996Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T21:38:48.996Z"
+  }
+}]

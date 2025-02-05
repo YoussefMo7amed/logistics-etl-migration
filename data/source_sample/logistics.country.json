@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "67a3da68f64b0a4eb35f986e"
+  },
+  "name": "Egypt",
+  "code": "EG",
+  "createdAt": {
+    "$date": "2025-02-05T21:38:48.203Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T21:38:48.203Z"
+  }
+}]

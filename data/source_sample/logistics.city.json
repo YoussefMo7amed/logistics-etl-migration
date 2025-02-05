@@ -1,0 +1,108 @@
+[{
+  "_id": {
+    "$oid": "67a3da68f64b0a4eb35f986f"
+  },
+  "name": "Luxor",
+  "createdAt": {
+    "$date": "2025-02-05T21:38:48.309Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T21:38:48.309Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a3da68f64b0a4eb35f9875"
+  },
+  "name": "Ismailia",
+  "createdAt": {
+    "$date": "2025-02-05T21:38:48.598Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T21:38:48.598Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a3da68f64b0a4eb35f987b"
+  },
+  "name": "Tanta",
+  "createdAt": {
+    "$date": "2025-02-05T21:38:48.632Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T21:38:48.632Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a3da68f64b0a4eb35f9881"
+  },
+  "name": "Alexandria",
+  "createdAt": {
+    "$date": "2025-02-05T21:38:48.683Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T21:38:48.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a3da68f64b0a4eb35f9886"
+  },
+  "name": "Suez",
+  "createdAt": {
+    "$date": "2025-02-05T21:38:48.758Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T21:38:48.759Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a3da68f64b0a4eb35f988f"
+  },
+  "name": "Minya",
+  "createdAt": {
+    "$date": "2025-02-05T21:38:48.867Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T21:38:48.867Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a3da68f64b0a4eb35f9895"
+  },
+  "name": "Faiyum",
+  "createdAt": {
+    "$date": "2025-02-05T21:38:48.944Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T21:38:48.944Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a3da68f64b0a4eb35f989a"
+  },
+  "name": "Giza",
+  "createdAt": {
+    "$date": "2025-02-05T21:38:48.984Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T21:38:48.984Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a3da69f64b0a4eb35f98a0"
+  },
+  "name": "Zagazig",
+  "createdAt": {
+    "$date": "2025-02-05T21:38:49.030Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T21:38:49.030Z"
+  }
+}]
