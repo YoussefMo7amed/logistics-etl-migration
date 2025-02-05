@@ -1,0 +1,21 @@
+"id","order_mongo_id","first_line","second_line","district","floor","apartment","geo_location","zone_id","city_id","country_id","created_at","updated_at","type"
+"1","67a3da68f64b0a4eb35f9874","Luxor, Egypt","47 Random Street, Luxor","Luxor","1","33","æ\0\0\0\0\0v4mlÔ9@–m”¼—Í>@","1","1","1","2025-02-05 23:38:49","2025-02-05 21:38:49","pickup"
+"2","67a3da68f64b0a4eb35f987a","Ismailia, Egypt","26 Random Street, Ismailia","Ismailia","7","27","æ\0\0\0\0\0Føñ¨:@³1Êƒ0V?@","2","2","1","2025-02-05 23:38:49","2025-02-05 21:38:49","pickup"
+"3","67a3da68f64b0a4eb35f9880","Tanta, Egypt","26 Random Street, Tanta","Tanta","9","19","æ\0\0\0\0\0Õ:7nD<@ôÒÀ¦uè>@","3","3","1","2025-02-05 23:38:49","2025-02-05 21:38:49","pickup"
+"4","67a3da68f64b0a4eb35f9885","Alexandria, Egypt","29 Random Street, Alexandria","Alexandria","3","49","æ\0\0\0\0\0ŠÝóç·J:@eþB-_u?@","2","4","1","2025-02-05 23:38:49","2025-02-05 21:38:49","pickup"
+"5","67a3da68f64b0a4eb35f988a","Suez, Egypt","14 Random Street, Suez","Suez","3","48","æ\0\0\0\0\0üÙ${=@€SŒÖÙ?@","3","5","1","2025-02-05 23:38:49","2025-02-05 21:38:49","pickup"
+"6","67a3da68f64b0a4eb35f988e","Suez, Egypt","28 Random Street, Suez","Suez","8","22","æ\0\0\0\0\0u¾~y‹Í<@)ŸeHŸ?@","2","5","1","2025-02-05 23:38:49","2025-02-05 21:38:49","pickup"
+"7","67a3da68f64b0a4eb35f9894","Minya, Egypt","23 Random Street, Minya","Minya","8","31","æ\0\0\0\0\0d=£E>@NÌå*%?@","4","6","1","2025-02-05 23:38:49","2025-02-05 21:38:49","pickup"
+"8","67a3da68f64b0a4eb35f9899","Faiyum, Egypt","27 Random Street, Faiyum","Faiyum","9","26","æ\0\0\0\0\0Ñ)µ•dÑ=@&¾5ØK¤=@","2","7","1","2025-02-05 23:38:49","2025-02-05 21:38:49","pickup"
+"9","67a3da69f64b0a4eb35f989f","Giza, Egypt","19 Random Street, Giza","Giza","9","30","æ\0\0\0\0\0£V‹\n³9@ç«ÿÙ¯ú=@","5","8","1","2025-02-05 23:38:49","2025-02-05 21:38:49","pickup"
+"10","67a3da69f64b0a4eb35f98a4","Zagazig, Egypt","16 Random Street, Zagazig","Zagazig","6","7","æ\0\0\0\0\0öðÅn9@`¹~{(?@","3","9","1","2025-02-05 23:38:49","2025-02-05 21:38:49","pickup"
+"11","67a3da68f64b0a4eb35f9874","Luxor, Egypt","Luxor - District 3","Luxor District","NULL","NULL","æ\0\0\0\0\0©”—æ[ï:@»EßÈW?@","1","1","NULL","2025-02-05 23:38:49","2025-02-05 21:38:49","dropoff"
+"12","67a3da68f64b0a4eb35f987a","Ismailia, Egypt","Ismailia - District 3","Ismailia District","NULL","NULL","æ\0\0\0\0\0€†ÔüŠ=@¼aLRúõ=@","2","2","NULL","2025-02-05 23:38:49","2025-02-05 21:38:49","dropoff"
+"13","67a3da68f64b0a4eb35f9880","Tanta, Egypt","Tanta - District 1","Tanta District","NULL","NULL","æ\0\0\0\0\0Wú6"×½=@×}:éÿÑ>@","3","3","NULL","2025-02-05 23:38:49","2025-02-05 21:38:49","dropoff"
+"14","67a3da68f64b0a4eb35f9885","Alexandria, Egypt","Alexandria - District 3","Alexandria District","NULL","NULL","æ\0\0\0\0\0›„2d9@òØÐ…×=@","2","4","NULL","2025-02-05 23:38:49","2025-02-05 21:38:49","dropoff"
+"15","67a3da68f64b0a4eb35f988a","Suez, Egypt","Suez - District 5","Suez District","NULL","NULL","æ\0\0\0\0\0¹GÖ¬Ô<@ïûR8ø¯>@","3","5","NULL","2025-02-05 23:38:49","2025-02-05 21:38:49","dropoff"
+"16","67a3da68f64b0a4eb35f988e","Suez, Egypt","Suez - District 5","Suez District","NULL","NULL","æ\0\0\0\0\0ŸyÇa´Ü<@ÙÙœ‘›?@","2","5","NULL","2025-02-05 23:38:49","2025-02-05 21:38:49","dropoff"
+"17","67a3da68f64b0a4eb35f9894","Minya, Egypt","Minya - District 2","Minya District","NULL","NULL","æ\0\0\0\0\0BCŠ7®;@v‡Ïšñ?@","4","6","NULL","2025-02-05 23:38:49","2025-02-05 21:38:49","dropoff"
+"18","67a3da68f64b0a4eb35f9899","Faiyum, Egypt","Faiyum - District 3","Faiyum District","NULL","NULL","æ\0\0\0\0\0‡:¸ÃŠ>@Ö 9êÈ?@","2","7","NULL","2025-02-05 23:38:49","2025-02-05 21:38:49","dropoff"
+"19","67a3da69f64b0a4eb35f989f","Giza, Egypt","Giza - District 4","Giza District","NULL","NULL","æ\0\0\0\0\0æÑÆ>ð9@T©‰<9>@","5","8","NULL","2025-02-05 23:38:49","2025-02-05 21:38:49","dropoff"
+"20","67a3da69f64b0a4eb35f98a4","Zagazig, Egypt","Zagazig - District 1","Zagazig District","NULL","NULL","æ\0\0\0\0\0b™uj R:@þ…^¢lu=@","3","9","NULL","2025-02-05 23:38:49","2025-02-05 21:38:49","dropoff"
