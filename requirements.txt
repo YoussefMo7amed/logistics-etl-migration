@@ -1,0 +1,8 @@
+mongoengine
+pymongo
+pandas
+python-dotenv
+mysql-connector-python
+SQLAlchemy
+geoalchemy2
+apache-airflow

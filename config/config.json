@@ -1,0 +1,13 @@
+{
+  "ETL_BATCH_SIZE": 10,
+  "last_updated": "2020-02-04T13:20:47.745462+02:00",
+  "last_processed_ids": {
+    "country": null,
+    "zone": null,
+    "star": null,
+    "city": null,
+    "receiver": null,
+    "tracker": null,
+    "order": null
+  }
+}
